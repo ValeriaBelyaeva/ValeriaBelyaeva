@@ -1,24 +1,17 @@
 # Hi! I'm Valeria Belyaeva
-
-Android (Kotlin) Developer
-Junior ML Engineer
-
-[Telegram](https://t.me/irisu_r) · [VK](https://vk.com/iresu)
-[lera.belyaeva.2006@mail.ru](mailto:lera.belyaeva.2006@mail.ru)
-+7(967)552-70-10
+  
+Android (Kotlin) Developer  
+Junior ML Engineer  
+  
+[Telegram](https://t.me/irisu_r) · [VK](https://vk.com/iresu)  
+lera.belyaeva.2006@mail.ru  
++7(967)552-70-10   
 
 
 Education -  **ITMO University** — “Mobile and Network Technologies”.
----
-
-## Projects
-
-* **[DocApp](https://github.com/ValeriaBelyaeva/DocApp)** — a commercial fragment of an Android application: work with asynchrony and databases.
-* **[freelance](https://github.com/ValeriaBelyaeva/freelance)** — parts of commercial projects; examples of desktop applications.
-* **[Vending Machine OOP](https://github.com/ValeriaBelyaeva/vending_machine_oop)** — demonstration of OOP principles and patterns.
-* **[School Project — pseudo-3D (Doom-style)](https://github.com/ValeriaBelyaeva/school_project_star_wars)** — graduation project: a pseudo-3D game.
 
 ---
+
 
 ## Technology Stack
 
@@ -35,7 +28,12 @@ Python (advanced, over 8 years and 3 years commercial); Kotlin (Android, 1 year 
 **GUI:** PyQt5 (complex widgets, animations, optimization).
 **Algorithms/CS:** sorts, greedy, dynamic programming, prefix trees (trie), automata (Aho–Corasick), 0k-bfs, LCA, RMQ, segment trees, Fenwick, sqrt-decomposition, maximum flows, FFT, persistent data structures, convex hulls, treap, sparse table, mergeable sets.
 
----
+## Projects
+
+* **[DocApp](https://github.com/ValeriaBelyaeva/DocApp)** — a commercial fragment of an Android application: work with asynchrony and databases.
+* **[freelance](https://github.com/ValeriaBelyaeva/freelance)** — parts of commercial projects; examples of desktop applications.
+* **[Vending Machine OOP](https://github.com/ValeriaBelyaeva/vending_machine_oop)** — demonstration of OOP principles and patterns.
+* **[School Project — pseudo-3D (Doom-style)](https://github.com/ValeriaBelyaeva/school_project_star_wars)** — graduation project: a pseudo-3D game.
 
 ## Olympiads and Achievements
 
