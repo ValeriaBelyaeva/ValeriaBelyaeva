@@ -16,17 +16,20 @@ Education -  **ITMO University** — “Mobile and Network Technologies”.
 ## Technology Stack
 
 **Programming languages and stack:**
-Python (advanced, over 8 years and 3 years commercial); Kotlin (Android, 1 year commercial use); C++ (algorithms/performance, 5 years of use); C# (OOP, 1 year of use); Bash; SQL.
-
-**ML/DS:** pandas, NumPy, scikit-learn (Pipeline/metrics/cross-validation), PyTorch (MLP/CNN prototypes), matplotlib, plotly.
-
-**Services:** FastAPI/Flask, REST, Pydantic, OpenAPI.
-**Databases:** PostgreSQL, ORM (SQLAlchemy, SQL).
-**Containerization and CI/CD:** Docker, Docker Compose, GitHub Actions.
-**Multithreading and asynchrony:** threading, asyncio.
-**Patterns/OOP:** SOLID, design patterns (Observer, etc.).
-**GUI:** PyQt5 (complex widgets, animations, optimization).
-**Algorithms/CS:** sorts, greedy, dynamic programming, prefix trees (trie), automata (Aho–Corasick), 0k-bfs, LCA, RMQ, segment trees, Fenwick, sqrt-decomposition, maximum flows, FFT, persistent data structures, convex hulls, treap, sparse table, mergeable sets.
+* **Python (advanced, over 8 years and 3 years commercial)**
+   * Kotlin (Android, 1 year commercial use)
+   * C++ (algorithms/performance, 5 years of use)
+   * C# (OOP, 1 year of use)
+   * Bash
+   * SQL.
+* **ML/DS:** pandas, NumPy, scikit-learn (Pipeline/metrics/cross-validation), PyTorch (MLP/CNN prototypes), matplotlib, plotly.
+* **Services:** FastAPI/Flask, REST, Pydantic, OpenAPI.
+* **Databases:** PostgreSQL, ORM (SQLAlchemy, SQL).
+* **Containerization and CI/CD:** Docker, Docker Compose, GitHub Actions.
+* **Multithreading and asynchrony:** threading, asyncio.
+* **Patterns/OOP:** SOLID, design patterns (Observer, etc.).
+* **GUI:** PyQt5 (complex widgets, animations, optimization).
+* **Algorithms/CS:** sorts, greedy, dynamic programming, prefix trees (trie), automata (Aho–Corasick), 0k-bfs, LCA, RMQ, segment trees, Fenwick, sqrt-decomposition, maximum flows, FFT, persistent data structures, convex hulls, treap, sparse table, mergeable sets.
 
 ## Projects
 
