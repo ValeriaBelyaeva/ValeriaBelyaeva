@@ -1,7 +1,7 @@
 # Hi! I'm Valeria Belyaeva
   
 Android (Kotlin) Developer  
-Junior ML Engineer  
+ML Engineer  
   
 [Telegram](https://t.me/irisu_r) · [VK](https://vk.com/iresu)   
 lera.belyaeva.2006@mail.ru  
