@@ -1,5 +1,6 @@
-# Hi! I'm Valeria Belyaeva
-  
+# Valeria Belyaeva
+
+Backend (Python) Developer
 Android (Kotlin) Developer  
 ML Engineer  
   
