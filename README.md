@@ -16,7 +16,7 @@ Education -  **ITMO University** — “Mobile and Network Technologies”.
 ## Technology Stack
 
 **Programming languages and stack:**
-* **Python (advanced, over 8 years and 3 years commercial)**
+* **Python (advanced, over 8 years and 2 years commercial)**
    * Kotlin (Android, 1 year commercial use)
    * C++ (algorithms/performance, 5 years of use)
    * C# (OOP, 1 year of use)
