@@ -1,6 +1,6 @@
 # Valeria Belyaeva
 
-Backend (Python) Developer
+Backend (Python) Developer  
 Android (Kotlin) Developer  
 ML Engineer  
   
