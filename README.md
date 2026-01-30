@@ -16,7 +16,7 @@ Education -  **ITMO University** — “Mobile and Network Technologies”.
 ## Technology Stack
 
 **Programming languages and stack:**
-*  *Python *
+*  * Python
    * Kotlin
    * C++ 
    * C# 
