@@ -3,7 +3,7 @@
 Backend (Python) Developer  
 Android (Kotlin) Developer  
   
-[Telegram](https://t.me/irisu_r) · [VK](https://vk.com/iresu)   
+[Telegram](https://t.me/irisu_r)   
 lera.belyaeva.2006@mail.ru  
 +7(967)552-70-10   
 
