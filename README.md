@@ -2,7 +2,6 @@
 
 Backend (Python) Developer  
 Android (Kotlin) Developer  
-ML Engineer  
   
 [Telegram](https://t.me/irisu_r) · [VK](https://vk.com/iresu)   
 lera.belyaeva.2006@mail.ru  
@@ -17,13 +16,12 @@ Education -  **ITMO University** — “Mobile and Network Technologies”.
 ## Technology Stack
 
 **Programming languages and stack:**
-* **Python (advanced, over 8 years and 2 years commercial)**
-   * Kotlin (Android, 1 year commercial use)
-   * C++ (algorithms/performance, 5 years of use)
-   * C# (OOP, 1 year of use)
+*  *Python *
+   * Kotlin
+   * C++ 
+   * C# 
    * Bash
    * SQL.
-* **ML/DS:** pandas, NumPy, scikit-learn (Pipeline/metrics/cross-validation), PyTorch (MLP/CNN prototypes), matplotlib, plotly.
 * **Services:** FastAPI/Flask, REST, Pydantic, OpenAPI.
 * **Databases:** PostgreSQL, ORM (SQLAlchemy, SQL).
 * **Containerization and CI/CD:** Docker, Docker Compose, GitHub Actions.
