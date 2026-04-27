@@ -109,5 +109,3 @@ I build internal tools, pipeline automation, and production utilities that help 
 </div>
 
 ---
-
-<sub>The GitHub activity feed below is native GitHub UI and is not controlled by README markup.</sub>
