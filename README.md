@@ -49,8 +49,6 @@ I build internal tools, pipeline automation, and production utilities that help 
 
 ## Toolbox
 
-### Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,kotlin,cpp,cs,bash,ts" alt="Languages" />
 </p>
