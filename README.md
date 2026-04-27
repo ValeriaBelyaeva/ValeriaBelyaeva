@@ -2,7 +2,7 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:FF7AAE,100:64FFD7&text=Hi! I'm Valeria%20Belyaeva&fontAlign=50&fontAlignY=35&fontSize=58&fontColor=FFFFFF&desc=Tools%20Developer%20%E2%80%A2%20Art%20Department%20%40%20Saber%20Interactive&descAlign=50&descAlignY=58&descSize=18" alt="Valeria Belyaeva header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:FF7AAE,100:64FFD7&text=Hi%21%20I%27m%20Valeria%20Belyaeva&fontAlign=50&fontAlignY=35&fontSize=58&fontColor=FFFFFF&desc=Tools%20Developer%20%E2%80%A2%20Art%20Department%20%40%20Saber%20Interactive&descAlign=50&descAlignY=58&descSize=18" alt="Valeria Belyaeva header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=64FFD7&center=true&vCenter=true&width=760&lines=Building+tools+for+artists;Automation+for+art+pipelines;Python+%2B+Kotlin+%2B+Maya+%2B+DevOps" alt="Typing SVG" />
 
