@@ -97,13 +97,6 @@ I build internal tools, pipeline automation, and production utilities that help 
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ValeriaBelyaeva&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF7AAE&icon_color=64FFD7&text_color=E5E7EB&bg_color=0D1117&custom_title=GitHub%20Stats" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaBelyaeva&layout=compact&theme=tokyonight&hide_border=true&title_color=FF7AAE&text_color=E5E7EB&bg_color=0D1117" alt="Top languages" />
-
 </div>
 
 ---
